@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./banner.svg)
 
 ```
 $ ./daniil --init
@@ -20,10 +20,19 @@ $ ./daniil --init
 
 ```
 language → TypeScript
-web      → React · Next.js
+web      → React · Next.js · Three.js
 server   → Node.js · Express · NestJS · REST · GraphQL
-data     → PostgreSQL · MongoDB · Redis
+data     → PostgreSQL · MongoDB · Redis · Sequelize
 cloud    → AWS · Azure · Docker
+realtime  → WebSockets
+```
+
+---
+
+### AI TOOLING
+
+```
+claude code · cursor · codex · gemini · google antigravity
 ```
 
 ---
