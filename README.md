@@ -5,49 +5,32 @@ $ ./daniil --init
 
 [ok] loading coffee.exe ......... done
 [ok] loading typescript ......... done
-[warn] loading sleep.exe ........ skipped (deadline tomorrow)
 [ok] loading patience.exe ....... done (retry x3)
 
-> whoami       Daniil Chenskyi
-> title        Senior Full-Stack Engineer
-> location     Ukraine · Remote EU/US/UA
-> status       open to work · shipping anyway
-```
+> whoami      Daniil Chenskyi
+> title       Senior Full-Stack Engineer
+> focus       AdTech & FinTech
+> location    Lviv, Ukraine · Remote (EU / UA)
+> status      open to work
 
----
+STACK
+language  → TypeScript · JavaScript
+web       → React · Next.js
+server    → Node.js · Express · REST APIs · WebSockets
+data      → PostgreSQL · Redis · Sequelize
+adtech    → Prebid.js · Header Bidding · Ad Reporting (impressions, revenue, eCPM)
+fintech   → Payment webhooks · Idempotency · Reconciliation
+cloud     → AWS · Docker · CI/CD
 
-### STACK
+EXPERIENCE
+TeqBlaze   → white-label publisher portal, auction config, Prebid.js, ad reporting
+Slope      → B2B buyer portal, Checkout.com webhooks, payment reconciliation
+LITIKO     → contract approval & document workflow system
 
-```
-language → TypeScript
-web      → React · Next.js · Three.js
-server   → Node.js · Express · NestJS · REST · GraphQL
-data     → PostgreSQL · MongoDB · Redis · Sequelize
-cloud    → AWS · Azure · Docker
-realtime  → WebSockets
-```
-
----
-
-### AI TOOLING
-
-```
+AI TOOLING
 claude code · cursor · codex · gemini · google antigravity
-```
 
----
-
-### CONTACT
-
-```
-github   → github.com/diniilchenskyi
-linkedin → linkedin.com/in/daniil-chenskyi
-email    → diniilchenskyi@gmail.com
-```
-
----
-
-```
-// 99 little bugs in the code, 99 little bugs...
-// take one down, patch it around — 127 little bugs in the code
+CONTACT
+linkedin  → linkedin.com/in/daniil-chenskyi
+email     → diniilchenskyi@gmail.com
 ```
